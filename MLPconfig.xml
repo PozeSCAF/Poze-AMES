@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HyperParameters>
+    <gnn_in_channels>9</gnn_in_channels>
+    <gnn_hidden_channels>57</gnn_hidden_channels>
+    <gnn_out_channels>34</gnn_out_channels>
+    <mlp_input_size>4096</mlp_input_size>
+    <mlp_hidden_sizes>
+        <size>2469</size>
+    <!--  <size>2469</size> -->
+    </mlp_hidden_sizes>
+    <mlp_output_size>185</mlp_output_size>
+    <dense_size_1>112</dense_size_1>
+    <dense_size_2>34</dense_size_2>
+    <lr>0.0009187259138754856</lr>
+    <weight_decay>0.009444366799494638</weight_decay>
+
+    
+</HyperParameters>
