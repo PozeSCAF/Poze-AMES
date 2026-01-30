@@ -84,9 +84,7 @@ All hyperparameters and configurations are documented inside the notebook.
 
 
 ---
-Please download the model from this link 
-https://drive.google.com/file/d/1tMb4Bo6vJOixvh5azaiPYv235aOJmyN7/view?usp=drive_link
-and use it in the inference code.
+Please download the model from [link](https://drive.google.com/file/d/1tMb4Bo6vJOixvh5azaiPYv235aOJmyN7/view?usp=drive_link) and use it in the inference code.
 ---
 
 ## 🔍 Inference
