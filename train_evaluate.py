@@ -153,5 +153,5 @@ class ModelTrainer:
         logging.info("\nClassification Report:\n"+create_boxed_text(class_report))
                     
         
-        # return all_probs,all_preds, all_targets,avg_loss, accuracy, conf_matrix, class_report, roc_auc, fpr, tpr
-        return avg_loss, accuracy, conf_matrix, class_report, roc_auc, fpr, tpr
+        return all_probs,all_preds, all_targets,avg_loss, accuracy, conf_matrix, class_report, roc_auc, fpr, tpr
+        # return avg_loss, accuracy, conf_matrix, class_report, roc_auc, fpr, tpr
