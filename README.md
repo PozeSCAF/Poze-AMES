@@ -22,7 +22,7 @@ The model leverages molecular graph representations to achieve strong predictive
 ### 1️⃣ Create and Activate the Conda Environment
 
 ```bash
-conda env create -f env.yaml -n Poze-AMES
+conda env create -f env.yml -n Poze-AMES
 conda activate Poze-AMES
 ```
 
