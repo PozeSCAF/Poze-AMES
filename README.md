@@ -39,7 +39,6 @@ This step is required to run the notebooks correctly.
 
 ```bash
 conda activate Poze-AMES
-conda install -y ipykernel
 
 python -m ipykernel install \
   --user \
@@ -83,6 +82,9 @@ Model training is performed using the provided notebook:
 All hyperparameters and configurations are documented inside the notebook.
 
 
+Smiles used for attention visualization in paper
+path: Data/Smiles.csv
+
 ---
 Please download the model from [link](https://drive.google.com/file/d/1tMb4Bo6vJOixvh5azaiPYv235aOJmyN7/view?usp=drive_link) and use it in the inference code.
 ---
@@ -107,6 +109,8 @@ Prediction and evaluation are handled via:
 Dedicated notebooks are provided for detailed model interpretation.
 
 ---
+
+
 
 ## 📦 Dependencies
 
