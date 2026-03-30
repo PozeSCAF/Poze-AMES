@@ -1,0 +1,33 @@
+﻿Smiles used for attention visualization
+
+Figure 12
+[O-][N+](=O)c1ccc(s1)c1nc(N2CCOCC2)c2c(n1)cccc2
+NCC(=O)NCc1nc(nn1c1ccc(cc1C(=O)c1ccccc1Cl)Cl)C(=O)N(C)C
+
+
+Figure 13
+Clc1cc(ccc1N=Nc1c(O)ccc2c1cccc2)[N+](=O)[O-]
+Oc2ccc1ccccc1c2/N=N/c3ccccc3Cl
+O=N(=O)c3ccc(/N=N/c1c(O)ccc2ccccc12)cc3
+Oc2ccc1ccccc1c2/N=N/c3ccccc3
+O=C(O)c3cc1ccccc1c(/N=N/c2ccccc2)c3O
+O=C(O)c3cc1ccccc1c(/N=N/c2ccccc2S(=O)(=O)O)c3O
+Cc1ccc(c(c1)S(=O)(=O)O)N=Nc1c(O)c(cc2c1cccc2)C(=O)O
+
+
+Figure 14
+Cc1ccc(c(c1)S(=O)(=O)O)N=Nc1c(O)c(cc2c1cccc2)C(=O)O
+Clc1cc(ccc1N=Nc1c(O)ccc2c1cccc2)[N+](=O)[O-]
+Fc1ccc(cc1)n1cc(C(=O)O)c(=O)c2c1cc(N1CCNCC1)c(c2)F
+CC1NCCN(C1)c1cc2n(cc(c(=O)c2cc1F)C(=O)O)c1ccc(cc1F)F
+CN=C1C=CC(=C(c2ccc(cc2)N(C)C)c2ccc(cc2)N(C)C)C=C1
+N=C1C=C/C(=C(/c2ccc(c(c2)C)N)\c2ccc(cc2)N)/C=C1
+
+
+Figure 15
+OS(=O)(=O)Oc1c2ccccc2c2c3c1ccc1c3c(cc2)ccc1
+[O-][N+](=O)c1ccc2c3c1ccc1c3c(cc2)cc2c1cccc2
+Oc1c(Br)cc2c(c1Br)oc1c(c2=O)c(C(=O)O)c(c(c1Cl)Cl)Cl
+COc1cc(O)c2c(c1)oc1c(c2=O)c(O)ccc1O
+COc1cc(OC)c2c(c1)c1c3OCOc3cc(c1c(c2)[N+](=O)[O-])C(=O)O
+COC(=O)c1cc2OCOc2c2c1c(cc1c2cccc1OC)[N+](=O)[O-]
