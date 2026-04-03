@@ -207,7 +207,6 @@ STRUCTURAL_ALERTS = {
     'Epoxide': 'C1OC1',
     'Aromatic hydroxylamine': '[OH]Nc',
     'PAH core (naphthalene)': 'c1ccc2ccccc2c1',
-    'Aromatic chloride': 'c[Cl]',
     'Sulfonate on aromatic': 'cS(=O)(=O)[OH]',
 }
 
